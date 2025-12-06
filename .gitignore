@@ -1,0 +1,97 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+.tmp/
+tmp/
+temp/
+
+# Editor directories and files
+.vs/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# Mac files
+.DS_Store
+
+# IDE files
+*.iml
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Package manager
+package-lock.json
+
+# Local development
+.local
+.cache/
+
+# Cloudinary uploads (if storing locally)
+uploads/
+public/uploads/
+
+# Razorpay test files
+.razorpay-test/
+
+# Database backups
+*.bak
+*.backup
+
+# Mail templates cache
+.mail-cache/
+
+# OS generated files
+**/Thumbs.db
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
