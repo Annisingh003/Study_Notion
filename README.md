@@ -38,7 +38,7 @@ StudyNotion is a fully-featured EdTech web application designed to provide an en
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yashu1412/StudyNotion-2.git
+git clone https://github.com/Annisingh003/Study_Notion
 cd StudyNotion-2
 ```
 
@@ -101,8 +101,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Yashpalsingh Pawara**  
-🔗 [GitHub](https://github.com/yashu1412)  
-📧 yashpalsinghpawara@gmail.com  
+**Aniket Pratap Singh**  
+🔗 [GitHub](https://github.com/Annisingh003)  
+📧 anikettheking2004@gmail.com
 ```
 
