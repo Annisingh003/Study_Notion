@@ -7,7 +7,7 @@ StudyNotion is a fully-featured EdTech web application designed to provide an en
 
 ## 🔗 Live Demo
 
-🌐 [deployed link](https://study-notion-git-main-yashpawaras-projects.vercel.app/)
+🌐 [deployed link](https://study-notion-inky-two.vercel.app/)
 
 ## 🚀 Features
 
